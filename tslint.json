@@ -107,5 +107,10 @@
       "check-seperator",
       "check-type"
     ]
+  },
+  "linterOptions": {
+    "exclude": [
+      "src/phaser.d.ts"
+    ]
   }
 }
